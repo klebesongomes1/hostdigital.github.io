@@ -1,2 +1,2 @@
-# hostdigital.github.io
+# http://hostdigital.github.io
 Host Digital
